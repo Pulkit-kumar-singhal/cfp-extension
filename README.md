@@ -30,8 +30,8 @@ Then Unload files from the cloned repository
 
 ### Sample Screenshots
 
-![](/.1.png)
-![](./images/2.png)
+![](/1.png)
+![](./2.png)
 
 ## Team Members/Contributors 
 Pulkit Kumar Singhal(2001920103114)
